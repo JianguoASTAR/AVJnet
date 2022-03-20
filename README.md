@@ -1,4 +1,4 @@
-This is official Pytorch implementation for the paper "AVJnet: Atrioventricular Junction Point Tracking Network in Cardiac Magnetic Resonance" by Jianguo Chen, Xulei Yang, Shuang Leng, Ru-San Tan, Zeng Zeng, and Liang Zhong.
+This is official Python implementation for the paper "AVJnet: Atrioventricular Junction Point Tracking Network in Cardiac Magnetic Resonance" by Jianguo Chen, Xulei Yang, Shuang Leng, Ru-San Tan, Zeng Zeng, and Liang Zhong.
 
 The target of the AVJnet model is to automatically detect and track Atrioventricular junction (AVJ) motion during cardiac cycle. 
 
