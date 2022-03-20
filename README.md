@@ -6,4 +6,4 @@ The AVJnet model consists of AVJ point detection module and motion tracking modu
 
 In AVJ point detection, we design the convolutional-based feature extraction and elastic regression to detect AVJ points frame by frame of each CMR video. 
 
-Then, in AVJ tracking, we adopt the Deep_SORT model to capture spatio-temporal continuity between frames and fine-tune the coordinate position of AVJ points.
+Then, in AVJ motion tracking, we adopt the Deep_SORT model to capture spatio-temporal continuity between frames and fine-tune the coordinate position of AVJ points.
